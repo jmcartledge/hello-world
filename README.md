@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository. I'm going to learn a lot through it. 
+My name is Jen. I was born in Amsterdam, NY and studied religion and music in Lynchburg, VA. Currently, I live in Louisville, KY with my wonderful husband, Dan, and our mischievous young son, Jason. I love music and songwriting. In university, I trained classically as an operatic soprano, but my personal compositions are much more folk and indie pop in style. I like to compose songs on ukulele and piano, subsequently adding guitar, bass and other instrumentation. Some of my favorite artists include JOJI, FLEET FOXES, SUFJAN STEVENS, and MICHAEL KIWANUKA. I also really enjoy comedy, videogames and YouTube personalities. 
